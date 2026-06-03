@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
         myWebView.setWebViewClient(new WebViewClient());
 
         // JioHotstar की मुख्य वेबसाइट लोड करें
-        myWebView.loadUrl("https://www.jiohotstar.com");
+        myWebView.loadUrl("https://www.hotstar.com");
     }
 
     // TV रिमोट के 'Back' बटन को हैंडल करने के लिए ताकि ऐप एकदम से बंद न हो
