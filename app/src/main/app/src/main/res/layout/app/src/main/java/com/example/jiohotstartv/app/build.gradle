@@ -1,0 +1,11 @@
+android {
+    compileSdk 33
+
+    defaultConfig {
+        applicationId "com.example.jiohotstartv"
+        minSdk 21 // 21 का मतलब है Android 5.0 Lollipop सपोर्ट
+        targetSdk 33
+        versionCode 1
+        versionName "1.0"
+    }
+}
